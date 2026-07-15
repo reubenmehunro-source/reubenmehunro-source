@@ -9,7 +9,7 @@ I design, secure, and automate enterprise hybrid-cloud environments. This profil
 
 ## Featured Portfolios
 
-### Fortinet Network & Security Ops Model](./fgt-network-security-ops-model)
+### [Fortinet Network & Security Ops Model](./fgt-network-security-ops-model)
 * **What it is:** A comprehensive governance and operational framework for FortiGate firewalls, focusing on security standards, lifecycle management, and policy compliance.
 * **Why look here:** Demonstrates my hands-on enterprise security ownership, firewall migration capabilities, and policy design.
 
@@ -31,5 +31,5 @@ I design, secure, and automate enterprise hybrid-cloud environments. This profil
 ---
 
 ## Connect With Me
-* **LinkedIn:** linkedin.com/in/reuben-mehunro-b3a9ab268
+* **LinkedIn:** [linkedin.com/in/reuben-mehunro-b3a9ab268]
 * **Email:** reubenmehunro@gmail.com
