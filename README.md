@@ -1,19 +1,19 @@
-# rmenro-glicth
 
-# Hi, I'm Reuben Mehunro
+# Hello, I'm Reuben Mehunro
+
 ### Infrastructure & Cybersecurity Engineer | Canada
 
-I design, secure, and automate enterprise hybrid-cloud environments. This profile showcases my technical blueprints, Infrastructure as Code (IaC), and security frameworks.
+I design, secure, and automate enterprise hybrid-cloud environments. This profile showcases my technical blueprints, Infrastructure as Code , and security frameworks.
 
 ---
 
-## 🛠️ Featured Interview Portfolios
+## Featured Portfolios
 
 ### Fortinet Network & Security Ops Model](./fgt-network-security-ops-model)
 * **What it is:** A comprehensive governance and operational framework for FortiGate firewalls, focusing on security standards, lifecycle management, and policy compliance.
 * **Why look here:** Demonstrates my hands-on enterprise security ownership, firewall migration capabilities, and policy design.
 
-### ☁️ [Azure Hub-and-Spoke Architecture via Terraform](./azure-hub-spoke-terraform)
+### [Azure Hub-and-Spoke Architecture via Terraform](./azure-hub-spoke-terraform)
 * **What it is:** Production-ready Infrastructure as Code (IaC) that deploys a highly available, secure, and scale-out Azure hybrid network topology.
 * **Why look here:** Highlights my skills in Terraform automation, Azure networking, security logging, and DevOps integration.
 
@@ -31,5 +31,5 @@ I design, secure, and automate enterprise hybrid-cloud environments. This profil
 ---
 
 ## Connect With Me
-* **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+* **LinkedIn:** linkedin.com/in/reuben-mehunro-b3a9ab268
 * **Email:** reubenmehunro@gmail.com
