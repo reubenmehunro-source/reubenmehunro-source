@@ -7,9 +7,9 @@ I design, secure, and automate enterprise hybrid-cloud environments. This profil
 
 ## 🛠️ Featured Portfolios
 
-### 🔒 [Fortinet Network & Security Ops Model](https://github.com)
-* **What it is:** A comprehensive governance and operational framework for FortiGate firewalls, focusing on security standards, lifecycle management, and policy compliance.
-* **Why look here:** Demonstrates my hands-on enterprise security ownership, firewall migration capabilities, and policy design.
+## 🛡️ [Hybrid Enterprise SOC & Automated Detection Lab](https://github.com/reubenmehunro-source/CAPSTONE-hybrid-enterprise-security-operations-and-automated-detection-lab)
+* **What it is:** An automated hybrid-cloud cyber range connecting an on-premise Proxmox cluster (FortiGate, Active Directory, Windows VMs, Metasploitable) to Azure VNets for threat emulation and KQL detection engineering
+* **Why look here:** Proves end-to-end security telemetry pipeline engineering, advanced FortiOS network diagnostics, and practical alignment with TMU Master of Cybersecurity and NIST CSF frameworks
 
 ### ☁️ [Azure Hub-and-Spoke Architecture via Terraform](https://github.com)
 * **What it is:** Production-ready Infrastructure as Code (IaC) that deploys a highly available, secure, and scale-out Azure hybrid network topology.
